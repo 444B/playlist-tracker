@@ -450,7 +450,7 @@ def main():
                     data=csv3,
                     file_name=f"track_popularity_history_{datetime.now().strftime('%Y%m%d')}.csv",
                     mime="text/csv"
-                )clone
+                )
 
 if __name__ == "__main__":
     main()
